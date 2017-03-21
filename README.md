@@ -1,4 +1,4 @@
-# ClonDS_21-03-2016
+# ClonDS
 NIM         : 15.01.53.0189<br>
 Nama        : Dani Supriyadi<br>
 Prodi       : Teknik Informatika<br>
